@@ -1,5 +1,5 @@
 # Env
-env/
+env/**
 
 *.py[cod]
 
