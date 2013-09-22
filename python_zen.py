@@ -30,6 +30,3 @@ Namespaces are one honking great idea -- let's do more of those!
 @app.route("/")
 def index():
 	return render_template('content.html', zen=zen)
-
-if __name__ == "__main__":
-	app.run(host='0.0.0.0', debug=True)
