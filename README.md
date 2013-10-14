@@ -7,3 +7,7 @@ Special "Hello World" using Flask framework
 
 **Hosted on [Heroku](https://www.heroku.com/):**
 * [Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fillipeweb/python-zen/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
